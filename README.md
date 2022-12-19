@@ -1,4 +1,6 @@
-# app_mega_bitacora
+# App Mega Bitácora
+
+Aplicación por medio de la cuál se puede tener acceso a todos los inmuebles que están registrados en la DCAI. 
 
 ## Project setup
 ```
